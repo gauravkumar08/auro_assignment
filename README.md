@@ -73,11 +73,6 @@ CREATE TABLE embeddings (
 );
 ```
 
-### Step 5: Run the Application
-```bash
-uvicorn main:app --host 0.0.0.0 --port 8000 --reload
-```
-
 ---
 
 ## Technologies Used
